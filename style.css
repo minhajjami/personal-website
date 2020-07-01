@@ -14,7 +14,6 @@ h4{
 }
 p{
     color:dimgray;
-    padding-bottom: 10%;
 }
 .hightlight-pink{
     color:deeppink;
@@ -35,7 +34,7 @@ p{
     background-position: left;
 }
 section{
-    height: 650px;
+    height: 500px;
 }
 .link-btn{
     text-decoration: none;
@@ -78,7 +77,7 @@ section{
     text-align: center;
     padding: 5% 0%;
 }
-.people h2,h4,h5,p{
+.people h2,h4,h5{
     text-align: center;
 }
 .message{
@@ -89,12 +88,18 @@ section{
     width:45%;
     margin-left: 25%;
     padding: 8px 30px;
+    margin-top: 6%;
+    text-decoration: none;
 }
 .people{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
-footer p{
+.review p{
     text-align: center;
+}
+#copyright{
+    text-align: center;
+    padding: 1px 1px;
 }
